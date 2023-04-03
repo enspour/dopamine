@@ -1,0 +1,3 @@
+[submodule "dopamine-web-client"]
+	path = dopamine-web-client
+	url = git@github.com:enspour/dopamine-web-client.git
