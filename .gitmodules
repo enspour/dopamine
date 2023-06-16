@@ -1,3 +1,6 @@
 [submodule "web-client"]
 	path = web-client
 	url = git@github.com:enspour/dopamine-web-client.git
+[submodule "dopamine-microservices"]
+	path = dopamine-microservices
+	url = git@github.com:enspour/dopamine-microservices.git
